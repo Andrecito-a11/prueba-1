@@ -1,0 +1,4 @@
+hola mundo
+mi nombre es ANDRES 
+tengo 17 años
+estudio programacion
